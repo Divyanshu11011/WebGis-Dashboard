@@ -10,10 +10,10 @@ app.use(cors());
 
 // Postgres connection pool
 const pool = new Pool({
-    user: 'postgres',
+    user: 'your user name',
     host: 'localhost',
-    database: 'webgis',
-    password: 'harsh123',
+    database: 'your database name',
+    password: 'your password ',
     port: 5432,
 });
 
