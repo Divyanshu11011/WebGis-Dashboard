@@ -36,7 +36,7 @@ cd backend
 npm install
 ```
 
-
+Make sure to start geoserver and also integrate with your postgres account as application is not deployed yet !
 
 Beyond the Basics
 This project serves as a solid foundation for building custom WebGIS dashboards. Feel free to explore the codebase, tailor it to your specific requirements, and leverage the provided functionalities to create insightful and interactive geospatial visualizations.
